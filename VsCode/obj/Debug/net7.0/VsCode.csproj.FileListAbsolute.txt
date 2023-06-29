@@ -1,0 +1,15 @@
+C:\Users\allan.vralmeida\source\repos\VsCode\bin\Debug\net7.0\VsCode.exe
+C:\Users\allan.vralmeida\source\repos\VsCode\bin\Debug\net7.0\VsCode.deps.json
+C:\Users\allan.vralmeida\source\repos\VsCode\bin\Debug\net7.0\VsCode.runtimeconfig.json
+C:\Users\allan.vralmeida\source\repos\VsCode\bin\Debug\net7.0\VsCode.dll
+C:\Users\allan.vralmeida\source\repos\VsCode\bin\Debug\net7.0\VsCode.pdb
+C:\Users\allan.vralmeida\source\repos\VsCode\obj\Debug\net7.0\VsCode.csproj.AssemblyReference.cache
+C:\Users\allan.vralmeida\source\repos\VsCode\obj\Debug\net7.0\VsCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\allan.vralmeida\source\repos\VsCode\obj\Debug\net7.0\VsCode.AssemblyInfoInputs.cache
+C:\Users\allan.vralmeida\source\repos\VsCode\obj\Debug\net7.0\VsCode.AssemblyInfo.cs
+C:\Users\allan.vralmeida\source\repos\VsCode\obj\Debug\net7.0\VsCode.csproj.CoreCompileInputs.cache
+C:\Users\allan.vralmeida\source\repos\VsCode\obj\Debug\net7.0\VsCode.dll
+C:\Users\allan.vralmeida\source\repos\VsCode\obj\Debug\net7.0\refint\VsCode.dll
+C:\Users\allan.vralmeida\source\repos\VsCode\obj\Debug\net7.0\VsCode.pdb
+C:\Users\allan.vralmeida\source\repos\VsCode\obj\Debug\net7.0\VsCode.genruntimeconfig.cache
+C:\Users\allan.vralmeida\source\repos\VsCode\obj\Debug\net7.0\ref\VsCode.dll
