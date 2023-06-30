@@ -44,11 +44,13 @@ namespace AlgoritimosDiversos
             ExibirLinha();
             Console.WriteLine("::::::::! Programa de lista de Compras! ::::::::");
 
+
             while (true)
             {
-                Console.Write("Digite um item para adicionar à lista (ou 'parar' para sair): ");
-          
+                Console.Write("Digite um item para adicionar à lista: ");
+
                 string item = Console.ReadLine();
+                
 
                 if (item.ToLower() == "parar")
                 {

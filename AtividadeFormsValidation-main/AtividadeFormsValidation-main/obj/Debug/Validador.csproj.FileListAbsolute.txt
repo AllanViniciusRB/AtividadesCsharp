@@ -1,0 +1,11 @@
+C:\Users\Allan\source\repos\Validador\Validador\obj\Debug\Validador.csproj.AssemblyReference.cache
+C:\Users\Allan\source\repos\Validador\Validador\obj\Debug\Validador.csproj.SuggestedBindingRedirects.cache
+C:\Users\Allan\source\repos\Validador\Validador\obj\Debug\AtividadeFORMS.Form1.resources
+C:\Users\Allan\source\repos\Validador\Validador\obj\Debug\Validador.Properties.Resources.resources
+C:\Users\Allan\source\repos\Validador\Validador\obj\Debug\Validador.csproj.GenerateResource.cache
+C:\Users\Allan\source\repos\Validador\Validador\obj\Debug\Validador.csproj.CoreCompileInputs.cache
+C:\Users\Allan\source\repos\Validador\Validador\bin\Debug\Validador.exe.config
+C:\Users\Allan\source\repos\Validador\Validador\bin\Debug\Validador.exe
+C:\Users\Allan\source\repos\Validador\Validador\bin\Debug\Validador.pdb
+C:\Users\Allan\source\repos\Validador\Validador\obj\Debug\Validador.exe
+C:\Users\Allan\source\repos\Validador\Validador\obj\Debug\Validador.pdb
